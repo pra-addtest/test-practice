@@ -9,7 +9,7 @@ public class Modoriti {
 		}else {
 			return "それ以外の数字です" ;
 		}
-		return "20以上で,"
+		return "20以下で,"
 				+ "偶数です。";
 
 	}
